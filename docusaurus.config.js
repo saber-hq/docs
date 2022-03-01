@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Saber Labs. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Saber Labs.`,
       },
       prism: {
         theme: lightCodeTheme,
