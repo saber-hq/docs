@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Saber Developer Documentation Site",
+  title: "Saber Documentation",
   tagline: "Saber: Solana AMM and DEX",
   url: "https://developer.saber.so",
   baseUrl: "/",
