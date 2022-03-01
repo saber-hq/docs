@@ -24,7 +24,7 @@ Stay on the page and wait for 15 confirmations on the Ethereum network. Then, ma
 
 ## Wormhole Token Abbreviations
 
-The w indicates that the token is wrapped from Wormhole. The optional second letter in the token indicates token origin. So, for example weDAI indicates Wormhole wrapped DAI bridged from Ethereum, while wpDAI indicates Wormhole wrapped DAI bridged from Polygon. A "V1" suffix indicates that the token is a legacy asset from Wormhole V1 and should be [migrated](./#token-migration) to V2
+The w indicates that the token is wrapped from Wormhole. The optional second letter in the token indicates token origin. So, for example weDAI indicates Wormhole wrapped DAI bridged from Ethereum, while wpDAI indicates Wormhole wrapped DAI bridged from Polygon. A "V1" suffix indicates that the token is a legacy asset from Wormhole V1 and should be [migrated](#token-migration) to V2
 
 ## Token Migration
 
