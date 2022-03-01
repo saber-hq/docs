@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# What is Saber?
+# Introduction
+
+## What is Saber?
 
 Saber is an automated market maker and liquidity pool on [Solana](https://solana.com) designed for extremely efficient trading between similarly priced (pegged) assets, without an opportunity cost.
 

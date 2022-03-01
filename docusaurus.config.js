@@ -55,9 +55,15 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "about/intro",
             position: "left",
-            label: "Docs",
+            label: "About",
+          },
+          {
+            type: "doc",
+            docId: "getting-started/wallets",
+            position: "left",
+            label: "Learn",
           },
           {
             type: "doc",
@@ -97,7 +103,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/SaberHQ",
+                href: "https://twitter.com/Saber_HQ",
               },
             ],
           },
