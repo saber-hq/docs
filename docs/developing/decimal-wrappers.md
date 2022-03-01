@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Decimal Wrapped Tokens
@@ -28,3 +28,7 @@ There are four key [instructions for interacting with decimal-wrapped tokens](ht
 One should use the [Saber Periphery](https://github.com/saber-hq/saber-periphery) SDK in order to interact with this program.
 
 TODO: add code examples of the `saber-periphery`.
+
+## Code
+
+The code for the [Add Decimals program can be found on GitHub](https://github.com/saber-hq/saber-periphery/tree/master/programs/add-decimals).

@@ -36,6 +36,9 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        gtag: {
+          trackingID: "G-VESYSPS1RV",
+        },
       }),
     ],
   ],
@@ -57,6 +60,12 @@ const config = {
             label: "Docs",
           },
           {
+            type: "doc",
+            docId: "developing/overview",
+            position: "left",
+            label: "Develop",
+          },
+          {
             label: "Chat",
             href: "https://chat.saber.so/",
             position: "right",
@@ -69,7 +78,6 @@ const config = {
         ],
       },
       footer: {
-        style: "dark",
         links: [
           {
             title: "Docs",
