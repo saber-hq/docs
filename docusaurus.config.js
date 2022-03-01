@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Saber Documentation",
   tagline: "Saber: Solana AMM and DEX",
-  url: "https://developer.saber.so",
+  url: "https://docs.saber.so",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
