@@ -7,12 +7,19 @@ import React from "react";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">
+          Welcome to the
+          <br />
+          Saber Documentation Site!
+        </h1>
+        <p className="hero__subtitle">
+          Saber is the leading cross-chain stablecoin and
+          <br />
+          wrapped assets exchange on Solana.
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
