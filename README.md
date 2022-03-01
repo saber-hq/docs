@@ -6,6 +6,8 @@
 
 An open repository containing documentation of how to use and build on Saber.
 
+View the docs at [docs.saber.so](https://docs.saber.so).
+
 ## Developing
 
 ### Installation
