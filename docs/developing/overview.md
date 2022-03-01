@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Overview
 
+## Protocol
+
 The Saber protocol consists of several programs:
 
 - The [Stable Swap program](https://github.com/saber-hq/stable-swap), which handles creating LP tokens and swapping
