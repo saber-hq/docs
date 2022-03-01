@@ -1,6 +1,10 @@
 # Saber Documentation Site
 
-Documentation of how to use and build on Saber.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/saber-hq/docs/master/static/img/banner.png">
+</div>
+
+An open repository containing documentation of how to use and build on Saber.
 
 ## Developing
 
