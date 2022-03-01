@@ -57,6 +57,11 @@ const config = {
             label: "Docs",
           },
           {
+            label: "Chat",
+            href: "https://chat.saber.so/",
+            position: "right",
+          },
+          {
             href: "https://github.com/saber-hq/docs",
             label: "GitHub",
             position: "right",
