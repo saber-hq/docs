@@ -125,6 +125,8 @@ const config = {
       colorMode: {
         defaultMode: "dark",
       },
+      image: "img/banner.png",
+      metadata: [{ name: "twitter:card", content: "summary_large_image" }],
     }),
 };
 
