@@ -15,7 +15,7 @@ To create Synthetify assets, the first step is to deposit collateral on Syntheti
 
 ![](/assets/assets/synthetify-deposit.png)
 
-Next, we use this collateral to mint xUSD on the mint page. It is important to note that xUSD is being taken on as debt (risks outlined in [Risks](synthetify-assets.md#risks)).
+Next, we use this collateral to mint xUSD on the mint page. It is important to note that xUSD is being taken on as debt (risks outlined in [Risks](#risks)).
 
 ![](/assets/assets/synthetify-mint.png)
 
