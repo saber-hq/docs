@@ -1,5 +1,4 @@
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import clsx from "clsx";
 import React from "react";
@@ -34,12 +33,8 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={siteConfig.title}
-      description="Documentation on how to use and build on Saber, the leading AMM and DEX on Solana for stablecoins and pegged assets."
-    >
+    <Layout description="Documentation on how to use and build on Saber, the leading AMM and DEX on Solana for stablecoins and pegged assets.">
       <HomepageHeader />
     </Layout>
   );
