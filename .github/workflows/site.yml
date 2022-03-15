@@ -29,9 +29,9 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ./node_modules/.cache/
-          key: ${{ runner.os }}-site-${{ github.sha }}
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}-site-${{ github.sha }}
           restore-keys: |
-            ${{ runner.os }}-site-
+            ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}-site-
       - run: yarn install
       - run: yarn build
       - name: Deploy
