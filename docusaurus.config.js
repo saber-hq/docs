@@ -113,6 +113,10 @@ const config = {
                 label: "GitHub",
                 href: "https://github.com/saber-hq/docs",
               },
+              {
+                label: "Jobs",
+                href: "/jobs",
+              },
             ],
           },
         ],
