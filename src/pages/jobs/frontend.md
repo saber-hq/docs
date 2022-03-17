@@ -5,7 +5,18 @@ image: /assets/jobs/founding-frontend-engineer.png
 hide_table_of_contents: true
 ---
 
+<head>
+  <title>Founding Frontend Engineer @ Saber Labs</title>
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="og:image" content="https://docs.saber.so/assets/jobs/founding-frontend-engineer.png" />
+  <meta name="twitter:image" content="https://docs.saber.so/assets/jobs/founding-frontend-engineer.png" />
+</head>
+
+![Founding Frontend Engineer @ Saber Labs](/assets/jobs/founding-frontend-engineer.png)
+
 # Founding Frontend Engineer @ Saber Labs
+
+We're looking for one Frontend Engineer to join our engineering team as engineering hire #1. Our engineering team has historically been very lean (currently 2, but until very recently 1.5 engineers!), and we are now looking to expand our team to build out our ambitious roadmap. This is a great opportunity to get close mentorship directly from one of the top DeFi teams on Solana from an engineering, product, and even [capital allocation](https://ship.capital) perspective.
 
 ## About Saber Labs
 
@@ -16,8 +27,6 @@ Saber is the leading stablecoin and pegged asset exchange on Solana. We're a sma
 Since our launch, we have hit $4B in total value locked and launched over 90 assets. We've also significantly contributed to products such as [Tribeca](https://tribeca.so) and [Quarry](https://quarry.so), which support many of the top projects in the Solana ecosystem. Our mission is to build the most composable assets and protocols in DeFi.
 
 ## Your Role
-
-We're looking for one Frontend Engineer to join our engineering team as engineering hire #1. Our engineering team has historically been very lean (currently 2, but until very recently 1.5 engineers!), and we are now looking to expand our team to build out our ambitious roadmap. This is a great opportunity to get close mentorship directly from one of the top DeFi teams on Solana from an engineering, product, and even [capital allocation](https://ship.capital) perspective.
 
 You'll be working on products throughout the Saber ecosystem, from DAO tooling to AMMs. You’ll help determine the frontend strategy as well as implement it.
 
