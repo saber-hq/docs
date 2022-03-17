@@ -1,5 +1,7 @@
 ---
 title: Founding Frontend Engineer @ Saber Labs
+description: "We're looking for one Frontend Engineer to work closely with our founding team as engineering hire #1. Apply today!"
+image: /assets/jobs/founding-frontend-engineer.png
 hide_table_of_contents: true
 ---
 
