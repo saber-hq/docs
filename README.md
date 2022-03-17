@@ -32,6 +32,10 @@ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Deployment
+
+Deployment is handled automatically via [Cloudflare Pages](https://pages.cloudflare.com/).
+
 ## License
 
 The Saber documentation website is licensed under the Apache License, Version 2.0.
