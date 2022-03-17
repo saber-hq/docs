@@ -10,12 +10,15 @@ const config = {
   tagline: "Saber: Solana AMM and DEX",
   url: "https://docs.saber.so",
   baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   trailingSlash: false,
+
   organizationName: "saber-hq",
   projectName: "docs",
+
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "throw",
+  onDuplicateRoutes: "throw",
 
   presets: [
     [
