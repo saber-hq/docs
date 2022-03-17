@@ -2274,23 +2274,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@saberhq/eslint-config-react@npm:^1.12.52":
-  version: 1.12.52
-  resolution: "@saberhq/eslint-config-react@npm:1.12.52"
+"@saberhq/eslint-config-react@npm:^1.12.53":
+  version: 1.12.53
+  resolution: "@saberhq/eslint-config-react@npm:1.12.53"
   dependencies:
-    "@saberhq/eslint-config": ^1.12.52
+    "@saberhq/eslint-config": ^1.12.53
     eslint-plugin-jsx-a11y: ^6.5.1
     eslint-plugin-react: ^7.29.3
     eslint-plugin-react-hooks: ^4.3.0
   peerDependencies:
     eslint: ">=7"
-  checksum: eef35454cd91d6beacba1004c1254b413338e2d91e2e4bddd6414b9573513a9d81e6588d84c6037730b334dfc127ad148b63ab4270917259b3d443e6b0185007
+  checksum: 9c72c5704e92eeb0be85f0da4a15dadee3fabd27a889b890e132f1ef774081b5b34ef98c5dbdb8cca6038670e4222a00aad0091d0f13e8b43111d091ecd09982
   languageName: node
   linkType: hard
 
-"@saberhq/eslint-config@npm:^1.12.52":
-  version: 1.12.52
-  resolution: "@saberhq/eslint-config@npm:1.12.52"
+"@saberhq/eslint-config@npm:^1.12.53":
+  version: 1.12.53
+  resolution: "@saberhq/eslint-config@npm:1.12.53"
   dependencies:
     "@typescript-eslint/eslint-plugin": ^5.14.0
     "@typescript-eslint/parser": ^5.14.0
@@ -2303,14 +2303,14 @@ __metadata:
     prettier: ^2.5.1
   peerDependencies:
     eslint: ">=7"
-  checksum: 0dc748e8bbf7500e3bdeba094fef89d1b9bd4870e0ec63601e2c5526995b048fd43557cbd56d4ce877d92b7f1cec489decd2061a7a8bde4957b080784a6fe59e
+  checksum: 29d0e9c2323f97f5f753ac521878cc1cd0fdd11e6156cc6c3eec59acab2ee5aa09b626907fd3c189ad6123c90f0f728e90834beeb714f452ca7daeb6fbbd70cd
   languageName: node
   linkType: hard
 
-"@saberhq/tsconfig@npm:^1.12.52":
-  version: 1.12.52
-  resolution: "@saberhq/tsconfig@npm:1.12.52"
-  checksum: eb2b823f1462a8f5fd2b3ffb0400a7a6e07f3b07b199319a1799eae915aa06569f032863df1865901db4d74a2d20251b93db57d662ad3e8b024b6788d99ae992
+"@saberhq/tsconfig@npm:^1.12.53":
+  version: 1.12.53
+  resolution: "@saberhq/tsconfig@npm:1.12.53"
+  checksum: bda62dae1f2cad7166f8b587d2f033f521201e4d14fe9bbb0cb0c10af284ea1e05e667dfcc1c3e38815d12e9fb74b04e9dcfa895d0ca8e462f7d07300a3adcb5
   languageName: node
   linkType: hard
 
@@ -7613,9 +7613,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:^12.3.5":
-  version: 12.3.5
-  resolution: "lint-staged@npm:12.3.5"
+"lint-staged@npm:^12.3.7":
+  version: 12.3.7
+  resolution: "lint-staged@npm:12.3.7"
   dependencies:
     cli-truncate: ^3.1.0
     colorette: ^2.0.16
@@ -7627,12 +7627,13 @@ __metadata:
     micromatch: ^4.0.4
     normalize-path: ^3.0.0
     object-inspect: ^1.12.0
+    pidtree: ^0.5.0
     string-argv: ^0.3.1
     supports-color: ^9.2.1
     yaml: ^1.10.2
   bin:
     lint-staged: bin/lint-staged.js
-  checksum: 6653c7078b36741e521e5f309b56bb75db198a05cbdd188124ff82a290e352ade3eb1e6080265729e19711ac08d190e300874af00e4e540b57b3c8f0690e2573
+  checksum: b595097556880eb2ab7ce2cf105047f6f22525ccfd608fbdc63ab243259aa36a26949576fadff673748fb885e7cb37ad3f4471d964ad54c1205d57a58999ba24
   languageName: node
   linkType: hard
 
@@ -8331,15 +8332,15 @@ __metadata:
     "@docusaurus/module-type-aliases": 2.0.0-beta.17
     "@docusaurus/preset-classic": 2.0.0-beta.17
     "@mdx-js/react": ^1.6.22
-    "@saberhq/eslint-config": ^1.12.52
-    "@saberhq/eslint-config-react": ^1.12.52
-    "@saberhq/tsconfig": ^1.12.52
+    "@saberhq/eslint-config": ^1.12.53
+    "@saberhq/eslint-config-react": ^1.12.53
+    "@saberhq/tsconfig": ^1.12.53
     "@tsconfig/docusaurus": ^1.0.5
     clsx: ^1.1.1
     eslint: ^8.11.0
     husky: ^7.0.4
-    lint-staged: ^12.3.5
-    prettier: ^2.5.1
+    lint-staged: ^12.3.7
+    prettier: ^2.6.0
     prism-react-renderer: ^1.3.1
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -8983,6 +8984,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"pidtree@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "pidtree@npm:0.5.0"
+  bin:
+    pidtree: bin/pidtree.js
+  checksum: 371cd14bbc9bdee2a6a44596dd521dd3565e223481e0b1afffdca3f1c29831850bfa7784114dc30d245d37e7d186cec035e036256b39f75d878d19498fe0df6a
+  languageName: node
+  linkType: hard
+
 "pkg-dir@npm:^4.1.0":
   version: 4.2.0
   resolution: "pkg-dir@npm:4.2.0"
@@ -9496,6 +9506,15 @@ __metadata:
   bin:
     prettier: bin-prettier.js
   checksum: 21b9408476ea1c544b0e45d51ceb94a84789ff92095abb710942d780c862d0daebdb29972d47f6b4d0f7ebbfb0ffbf56cc2cfa3e3e9d1cca54864af185b15b66
+  languageName: node
+  linkType: hard
+
+"prettier@npm:^2.6.0":
+  version: 2.6.0
+  resolution: "prettier@npm:2.6.0"
+  bin:
+    prettier: bin-prettier.js
+  checksum: 3e527ad62279676778a8404d18174d7ca2365ada4caba6eebbcdd9907d1187afd3bc6ade5b4e5f5d4549bb9fb71e45ca8930d71500017635524f8fc05bc52e93
   languageName: node
   linkType: hard
 

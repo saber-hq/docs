@@ -28,14 +28,14 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.0-beta.17",
-    "@saberhq/eslint-config": "^1.12.52",
-    "@saberhq/eslint-config-react": "^1.12.52",
-    "@saberhq/tsconfig": "^1.12.52",
+    "@saberhq/eslint-config": "^1.12.53",
+    "@saberhq/eslint-config-react": "^1.12.53",
+    "@saberhq/tsconfig": "^1.12.53",
     "@tsconfig/docusaurus": "^1.0.5",
     "eslint": "^8.11.0",
     "husky": "^7.0.4",
-    "lint-staged": "^12.3.5",
-    "prettier": "^2.5.1",
+    "lint-staged": "^12.3.7",
+    "prettier": "^2.6.0",
     "typescript": "~4.6.2"
   },
   "browserslist": {
