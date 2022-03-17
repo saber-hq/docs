@@ -1,0 +1,41 @@
+name: Build Site
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+env:
+  GIT_COMMIT_SHA: ${{ github.sha }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node
+        uses: actions/setup-node@v2
+
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
+      - name: Yarn Cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-modules-
+
+      - name: Build Cache
+        uses: actions/cache@v2
+        with:
+          path: ./node_modules/.cache/
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}-site-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}-site-
+
+      - run: yarn install
+      - run: yarn lint:ci
+      - run: yarn build

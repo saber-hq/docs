@@ -1,8 +1,7 @@
 module.exports = {
-  extends: ["@saberhq"],
+  extends: ["@saberhq/eslint-config-react"],
   env: {
     browser: true,
-    node: true,
   },
   parserOptions: {
     tsconfigRootDir: __dirname,
@@ -10,7 +9,7 @@ module.exports = {
   },
   settings: {
     react: {
-      version: "detect", // React version. "detect" automatically picks the version you have installed.
+      version: "detect",
     },
   },
 };

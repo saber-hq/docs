@@ -8338,6 +8338,7 @@ __metadata:
     "@tsconfig/docusaurus": ^1.0.5
     clsx: ^1.1.1
     eslint: ^8.11.0
+    eslint-plugin-prettier: ^4.0.0
     husky: ^7.0.4
     lint-staged: ^12.3.7
     prettier: ^2.6.0
