@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "saber-hq", // Usually your GitHub org/user name.
-  projectName: "docs", // Usually your repo name.
+  trailingSlash: false,
+  organizationName: "saber-hq",
+  projectName: "docs",
 
   presets: [
     [
