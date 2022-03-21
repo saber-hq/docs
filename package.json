@@ -30,7 +30,7 @@
     "@docusaurus/module-type-aliases": "2.0.0-beta.17",
     "@saberhq/eslint-config": "^1.12.53",
     "@saberhq/eslint-config-react": "^1.12.53",
-    "@saberhq/tsconfig": "^1.12.53",
+    "@saberhq/tsconfig": "^1.12.55",
     "@tsconfig/docusaurus": "^1.0.5",
     "eslint": "^8.11.0",
     "eslint-plugin-prettier": "^4.0.0",
