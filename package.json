@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.0-beta.17",
-    "@saberhq/eslint-config": "^1.12.53",
+    "@saberhq/eslint-config": "^1.12.67",
     "@saberhq/eslint-config-react": "^1.12.53",
     "@saberhq/tsconfig": "^1.12.53",
     "@tsconfig/docusaurus": "^1.0.5",
