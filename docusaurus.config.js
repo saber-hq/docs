@@ -26,6 +26,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/saber-hq/docs/tree/master/",
           showLastUpdateTime: true,
@@ -89,7 +90,7 @@ const config = {
             items: [
               {
                 label: "Intro",
-                to: "/docs/about/intro",
+                to: "/",
               },
             ],
           },
