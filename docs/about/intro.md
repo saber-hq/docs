@@ -11,7 +11,7 @@ Saber is an automated market maker and liquidity pool on [Solana](https://solana
 
 This trading activity results in fees for providers of liquidity, resulting in a safer, lower-risk staking opportunity representing real world transaction volume.
 
-For more information about why Saber is useful, see: [Why Saber?](./why-saber)
+For more information about why Saber is useful, see: [Why Saber?](./about/why-saber)
 
 ## Asset Types
 
