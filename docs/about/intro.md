@@ -24,3 +24,7 @@ Saber generally allows for trading between assets that mean revert in price. The
 ## Getting Listed
 
 If you are building an asset that you think belongs on Saber, please email [team@saber.so](mailto:team@saber.so).
+
+## Disclaimer
+
+All claims, content, designs, algorithms, estimates, roadmaps, specifications, and performance measurements described in this project are done with the author's best effort. It is up to the reader to check and validate their accuracy and truthfulness. Furthermore, nothing in this project constitutes a solicitation for investment.

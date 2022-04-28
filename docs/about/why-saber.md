@@ -14,7 +14,7 @@ Saber's StableSwap algorithm makes the assumption that assets in a pair will con
 
 Note that there is still a risk of prices diverging from equilibrium: if one asset in the pool "de-pegs" (that is, drops or skyrockets in price permanently), a liquidity provider will experience impermanent loss. One should take care to research the underlying assets they are investing in.
 
-## Zero Opportunity Cost
+## Concentrated Liquidity
 
 There is an age-old debate of whether or not automated market makers are more efficient in providing liquidity than orderbooks.
 
@@ -24,4 +24,8 @@ Constant product market makers like Uniswap V2 are very inefficient in liquidity
 
 Saber is different. The algorithm knows that USDT and USDC should be the same price, so you can expect a virtually zero change in price. As a result, liquidity providers are able to charge higher fees and more profit.
 
-However, the efficiency of Saber liquidity does not stop here: Saber LP tokens themselves are able to be used in all sorts of places ranging from lending markets (see [Port](https://port.finance)) to collateralizing other stablecoins (see [Cashio](https://cashio.app)). This allows for Saber to be much more composable than orderbooks, as orderbook positions cannot directly be used as assets within other protocols. This greatly reduces (and in the long run, eliminates) the opportunity cost of deploying capital, providing a passive "risk-free" rate of return to the decentralized financial ecosystem.
+## Zero Opportunity Cost
+
+Unlike other concentrated liquidity AMM positions, Saber LP tokens themselves are able to be used in all sorts of places ranging from lending markets (see [Port](https://port.finance)) to collateralizing other stablecoins (see [Cashio](https://cashio.app)). This allows for Saber to be much more composable than orderbooks, as orderbook positions cannot directly be used as assets within other protocols. This greatly reduces (and in the long run, eliminates) the opportunity cost of deploying capital, providing a passive "risk-free" rate of return to the decentralized financial ecosystem.
+
+This means that the goal of Saber is _not_ necessarily to maximize fees per LP token-- it is just the closest thing to a risk free rate of return on Solana, relative to an LP's underlying assets.
