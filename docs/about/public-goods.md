@@ -68,3 +68,4 @@ Some applications listed here are closed source. If you would like to contribute
 - [Crate Protocol](https://crate.so/) - A composable primitive for tokenized baskets of assets.
 - [Arrow Protocol](https://github.com/ArrowProtocol/arrow) - Protocol for launching staking derivatives for communities and DAOs.
 - [Sencha](https://sencha.so/) - An automated market maker based on the constant product invariant.
+- [Traction](https://github.com/TractionDAO/traction) - An American options protocol.
