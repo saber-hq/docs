@@ -61,6 +61,7 @@ Some applications listed here are closed source. If you would like to contribute
 
 ## DeFi
 
+- [spl-token-swap (Stable Curve)](https://github.com/solana-labs/solana-program-library/blob/master/token-swap/program/src/curve/stable.rs) - Stable token swap curve used by Orca, Raydium, Mercurial, Atrix, Aldrin, Saros, Penguin, and others
 - [TokenDAO](https://tokendao.so/) - A browser for Solana token lists.
 - [The Certified© Token List](https://github.com/clbexchange/certified-token-list) - An aggregated token list, managed by protocols.
 - [Certified© Limit Book](https://clb.exchange) - _(unmaintained)_ A powerful, fully decentralized crypto exchanged powered by Solana and Serum.
