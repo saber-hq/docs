@@ -39,3 +39,5 @@ Deployment is handled automatically via [Cloudflare Pages](https://pages.cloudfl
 ## License
 
 The Saber documentation website is licensed under the Apache License, Version 2.0.
+
+Content is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
