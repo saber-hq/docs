@@ -33,7 +33,7 @@
     "@saberhq/eslint-config-react": "^1.13.1",
     "@saberhq/tsconfig": "^1.13.1",
     "@tsconfig/docusaurus": "^1.0.5",
-    "eslint": "^8.14.0",
+    "eslint": "^8.15.0",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.4.1",
