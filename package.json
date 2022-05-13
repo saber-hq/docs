@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.0-beta.20",
-    "@saberhq/eslint-config": "^1.13.1",
+    "@saberhq/eslint-config": "^1.13.2",
     "@saberhq/eslint-config-react": "^1.13.1",
     "@saberhq/tsconfig": "^1.13.1",
     "@tsconfig/docusaurus": "^1.0.5",
