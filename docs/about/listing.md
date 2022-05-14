@@ -11,7 +11,7 @@ However, getting featured on the web app and being added to gauges requires addi
 To get your asset listed on Saber, perform the following steps:
 
 1. Add your token to [the official Solana token list](https://github.com/solana-labs/token-list).
-2. Submit a pull request to [the Saber Governance repo](https://github.com/saber-hq/governance), editing `Sources.toml` and `assets/Mainnet.toml`.
+2. Submit a pull request to [the Saber Governance repo](https://github.com/saber-hq/governance), editing `Sources.toml` and `assets/Mainnet.toml`. If you are non-technical, you may also [create a ticket here](https://github.com/saber-hq/governance/issues/new?assignees=macalinao%2Cmichaelhly%2Cdyljm1&labels=asset&template=new-asset.md&title=%5BASSET%5D).
 
 ## More Help
 
