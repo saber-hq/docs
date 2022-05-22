@@ -54,24 +54,6 @@ const config = {
         },
         items: [
           {
-            type: "doc",
-            docId: "about/intro",
-            position: "left",
-            label: "About",
-          },
-          {
-            type: "doc",
-            docId: "getting-started/wallets",
-            position: "left",
-            label: "Learn",
-          },
-          {
-            type: "doc",
-            docId: "developing/overview",
-            position: "left",
-            label: "Develop",
-          },
-          {
             label: "Chat",
             href: "https://chat.saber.so/",
             position: "right",
