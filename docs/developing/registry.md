@@ -19,5 +19,5 @@ The list contains the following info for each pool:
 - `currency`: the currency category of the pool, all uppercase. A pool generally only trades against other pools with the same currency.
 - `lpToken`: token information of the LP token.
 - `plotKey`: Deprecated. This is the key of the Plot in the old Saber farming system.
-- `swap`: The swap config and state.
+- `swap`: The pool config and state.
 - `quarry`: Key of the [Quarry](https://quarry.so) associated with the official Saber liquidity mining program.

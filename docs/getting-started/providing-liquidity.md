@@ -7,7 +7,7 @@ Pools are a way to provide _liquidity_, or the ability to trade, between tokens 
 Let's say you want to supply to the USDC and USDT pool.
 
 - Go the the **Pools** tab and select **Deposit**.
-- Enter a quantity of USDT and USDC to swap from.
+- Enter a quantity of USDT and USDC to trade from.
   - Because this is a stable pair, you aren't required to deposit both tokens. However, depending on how different the quantity between tokens is, you may have to pay a larger transaction fee. This is to incentivize close-to-equal distribution within the pool.
 
 ![](/assets/deposit.png)

@@ -2,6 +2,6 @@
 sidebar_position: 4
 ---
 
-# Tutorial: Perform a Swap
+# Tutorial: Perform a Trade
 
 TODO

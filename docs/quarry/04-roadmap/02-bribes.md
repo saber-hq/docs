@@ -30,7 +30,7 @@ Before the Saber and Sunny DAOs used Gauge, Saber (and Sunny) liquidity mining r
 
 Gauges allow veToken holders to vote weekly on the rewards distribution of various pools on a veDAO. However, there are only two types users who will buy veTokens for the purpose of voting on gauges:
 
-- **Protocols.** Gauges allow a protocol to boost their own yields. There are several examples of this happening today, e.g. Terra investing heavily into Sunny/Saber or UXD performing a treasury swap with Saber.
+- **Protocols.** Gauges allow a protocol to boost their own yields. There are several examples of this happening today, e.g. Terra investing heavily into Sunny/Saber or UXD performing a treasury trade with Saber.
 - **Protocol affiliates.** If a veToken holder is invested in the success of another protocol, e.g. if they are a founder or an investor of that other protocol, then they may want to boost their own yields. An example of this is the Solend whale boosting the cToken pools.
 - **Large liquidity providers.** If a liquidity provider has a lot of capital in a particular pool, they may want to increase the yields of that pool.
 

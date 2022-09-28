@@ -2,7 +2,7 @@
 
 Saber allows you to swap between a stable pair of assets (e.g. USDC and USDT) with very low slippage and fees.
 
-Let's say you have USDT and you want to swap it for USDC.
+Let's say you have USDT and you want to trade it for USDC.
 
 - On the swapping interface, select the tokens you want to exchange from (USDT) and to (USDC).
 - Enter a quantity of USDT to swap from.&#x20;
