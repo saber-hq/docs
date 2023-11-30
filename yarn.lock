@@ -2639,7 +2639,7 @@ __metadata:
     "@saberhq/browserslist-config": "npm:^3.1.1"
     "@saberhq/eslint-config": "npm:^3.1.1"
     "@saberhq/eslint-config-react": "npm:^3.1.1"
-    "@saberhq/tsconfig": "npm:^3.1.1"
+    "@saberhq/tsconfig": "npm:^3.2.0"
     "@tsconfig/docusaurus": "npm:^2.0.2"
     clsx: "npm:^2.0.0"
     eslint: "npm:^8.54.0"
@@ -2687,10 +2687,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@saberhq/tsconfig@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "@saberhq/tsconfig@npm:3.1.1"
-  checksum: db789591f0e949aa9cd4e41999310e51d939111a42df21d3624391177076dd53a5f51812a891880c8d360ae7c52c6d6f36a0949dfabd266e922d5f401ffd663c
+"@saberhq/tsconfig@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "@saberhq/tsconfig@npm:3.2.0"
+  checksum: f1447839f6b3d44be79d499f2bdc5f468c20743345c04de71569a0745c176ac4bc5c0a0fa07a70b5fecbffb5f86bb7024386ec64af017f08d79a9db19c14acdc
   languageName: node
   linkType: hard
 
