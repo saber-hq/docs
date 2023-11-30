@@ -30,7 +30,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.0.0",
     "@saberhq/eslint-config": "^3.1.1",
-    "@saberhq/eslint-config-react": "^3.1.1",
+    "@saberhq/eslint-config-react": "^3.2.0",
     "@saberhq/tsconfig": "^3.1.1",
     "@tsconfig/docusaurus": "^2.0.2",
     "eslint": "^8.54.0",
