@@ -2621,10 +2621,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@saberhq/browserslist-config@npm:^3.1.1":
-  version: 3.1.1
-  resolution: "@saberhq/browserslist-config@npm:3.1.1"
-  checksum: 7d99903a917c972418dce7c99a33346165ad9d99ab300a9829bbd47e894b643f2e896991c0be6814217e944cc496e8b7eddb2d728b121a0e91207d00ed2044d9
+"@saberhq/browserslist-config@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "@saberhq/browserslist-config@npm:3.2.1"
+  checksum: 5b12baa2fd86be8d5de3f82eba5b8dd83deadc591ef313c429f37cc83c2fd5f3aebcc8a7d6a5eda8ede5e2babcdbb8ddb2864ccbf3398393b85d3276d69b9675
   languageName: node
   linkType: hard
 
@@ -2636,7 +2636,7 @@ __metadata:
     "@docusaurus/module-type-aliases": "npm:3.0.0"
     "@docusaurus/preset-classic": "npm:3.0.0"
     "@mdx-js/react": "npm:^3.0.0"
-    "@saberhq/browserslist-config": "npm:^3.1.1"
+    "@saberhq/browserslist-config": "npm:^3.2.1"
     "@saberhq/eslint-config": "npm:^3.1.1"
     "@saberhq/eslint-config-react": "npm:^3.1.1"
     "@saberhq/tsconfig": "npm:^3.1.1"
